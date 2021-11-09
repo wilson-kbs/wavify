@@ -1,0 +1,30 @@
+{
+  "name": "@kbs/wavify",
+  "version": "0.0.1",
+  "description": "Animation wave",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson-kbs/wavify.git"
+  },
+  "keywords": [
+    "wave"
+  ],
+  "author": "Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilson-kbs/wavify/issues"
+  },
+  "homepage": "https://github.com/wilson-kbs/wavify#readme",
+  "dependencies": {
+    "gsap": "^3.8.0"
+  }
+}
