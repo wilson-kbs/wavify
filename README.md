@@ -6,7 +6,7 @@ _Warning_: It has been notified that the use of this plugin introduce performanc
 
 ## Installation
 
-Clone repo or run `npm i @kbs/wavify`.
+Clone repo or run `npm i @kabaliserv/wavify`.
 
 ## Usage
 
@@ -32,7 +32,7 @@ const myWave = kbs.wavify('#wave', {
 });
 
 // With NPM
-import wavify from '@kbs/wavify';
+import wavify from '@kabaliserv/wavify';
 const myWave = wavify('#wave', {
   height: 60,
   bones: 3,
