@@ -9,9 +9,9 @@ _Warning_: It has been notified that the use of this plugin introduce performanc
 NPM:
 
 ```console
-npm install @kabaliser/wavify
+$ npm install @kabaliser/wavify
 
-yarn add @kabaliserv/wavify
+$ yarn add @kabaliserv/wavify
 ```
 
 CDN:
