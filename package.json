@@ -1,6 +1,6 @@
 {
   "name": "@kabaliserv/wavify",
-  "version": "0.2.0",
+  "version": "0.2.1-0",
   "description": "Animation wave",
   "umd:main": "lib/wavify.min.js",
   "umd:name": "wavify",
