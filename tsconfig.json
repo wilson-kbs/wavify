@@ -2,7 +2,7 @@
   "compilerOptions": {
     "incremental": false,
     "target": "es6",
-    "module": "commonjs",
+    "module": "CommonJS",
     "declaration": true,
     "outDir": "./dist",
     "rootDir": "./src",
