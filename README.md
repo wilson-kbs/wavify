@@ -1,6 +1,5 @@
 # Wavify
 
-
 Wavify is a simple library to draw animated wave on a website.
 
 _Warning_: It has been notified that the use of this plugin introduce performance issues in limited setups or on some mobile devices.
@@ -33,7 +32,7 @@ const myWave = kbs.wavify('#wave', {
 });
 
 // With NPM
-import wavify from @kbs/wavify;
+import wavify from '@kbs/wavify';
 const myWave = wavify('#wave', {
   height: 60,
   bones: 3,
@@ -46,14 +45,14 @@ const myWave = wavify('#wave', {
 
 ## Option Parameters
 
-| **Property** | **Description**                                                             | **Default Value**       |
-| ------------ | :-------------------------------------------------------------------------- | :---------------------- |
-| color        | CSS color for the wave, can be Hex, rgb, rgba                               | rgba(255,255,255, 0.20) |
-| position        | Position of the wave                                         | bottom                      |
-| bones        | Number of articulations in the wave                                         | 3                       |
-| speed        | Animation speed                                                             | 0.15                    |
-| height       | Height of the wave from crest to trough                                     | 200                     |
-| amplitude    | Vertical distance wave travels                                              | 100                     |
+| **Property** | **Description**                               | **Default Value**       |
+| ------------ | :-------------------------------------------- | :---------------------- |
+| color        | CSS color for the wave, can be Hex, rgb, rgba | rgba(255,255,255, 0.20) |
+| position     | Position of the wave                          | bottom                  |
+| bones        | Number of articulations in the wave           | 3                       |
+| speed        | Animation speed                               | 0.15                    |
+| height       | Height of the wave from crest to trough       | 200                     |
+| amplitude    | Vertical distance wave travels                | 100                     |
 
 ## Available Functions
 
