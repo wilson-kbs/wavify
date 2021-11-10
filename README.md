@@ -6,7 +6,19 @@ _Warning_: It has been notified that the use of this plugin introduce performanc
 
 ## Installation
 
-Clone repo or run `npm i @kabaliserv/wavify`.
+NPM:
+
+```console
+npm install @kabaliser/wavify
+
+yarn add @kabaliserv/wavify
+```
+
+CDN:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/wilson-kbs/wavify@v0.1/lib/kbs-wavify.min.js"></script>
+```
 
 ## Usage
 
