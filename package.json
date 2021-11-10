@@ -1,5 +1,5 @@
 {
-  "name": "@kbs/wavify",
+  "name": "@kabaliserv/wavify",
   "version": "0.0.1",
   "description": "Animation wave",
   "main": "dist/index.js",
