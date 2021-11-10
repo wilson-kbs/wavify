@@ -12,7 +12,7 @@
   "scripts": {
     "build": "tsc && node build",
     "version": "npm run build",
-    "postversion": "git push && git push --tags"
+    "postversion": "git commit -a -m \"build: update minified app\" && git push && git push --tags"
   },
   "repository": {
     "type": "git",
