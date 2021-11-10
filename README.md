@@ -91,7 +91,7 @@ myWave.pause();
 
 ## Copyright and license
 
-Code released under the [MIT License](https://github.com/peacepostman/wavify/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/wilson-kbs/wavify/blob/master/LICENSE).
 
 ## Credits
 
